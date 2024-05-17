@@ -34,14 +34,21 @@ This Restaurant POS System is created by undergraduate Technology Informatics st
    ```
 
 2. **Navigate to the project directory:**
-   Navigate to the project directory
+
+   ```bash
    cd Project-2-Final
+   ```
 
 3. **Compile the Java files:**
-   javac -d bin src/\*.java
 
-4. **Run the Application:**
+   ```bash
+   javac -d bin src/\*.java
+   ```
+
+5. **Run the Application:**
+   ```bash
    java -cp bin Dashboard
+   ```
 
 ## Usage
 
